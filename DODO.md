@@ -43,7 +43,7 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 **Total:** 1,000,000,000 DODO
 
-<img src="https://gblobscdn.gitbook.com/assets%2F-M_yRxKSy7ATWeQvQh09%2F-Ma2R7ZmYF8MYWVeJmQr%2F-Ma2Y_X-9hcEPYV1CFGZ%2Fimage.png" width="800px" style="margin: 0 auto;" />
+<img src="https://raw.githubusercontent.com/solv-finance-dev/solv-ic-market-projects/gh-pages/images/DODO/dodo-total.png" width="800px" style="margin: 0 auto;" />
 
 
 
