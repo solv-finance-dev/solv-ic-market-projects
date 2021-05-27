@@ -51,7 +51,7 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 
 
-<img src="https://gblobscdn.gitbook.com/assets%2F-M_yRxKSy7ATWeQvQh09%2F-Ma2_G33TvByr0KFLoPZ%2F-Ma2aaAMId21O65VHIRZ%2Fimage.png" width="800px" style="margin: 0 auto;" />
+<img src="https://raw.githubusercontent.com/solv-finance-dev/solv-ic-market-projects/gh-pages/images/DODO/dodo-unlock-schedule.png" width="800px" style="margin: 0 auto;" />
 
 
 
@@ -59,7 +59,7 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 
 
-<img src="https://gblobscdn.gitbook.com/assets%2F-M_yRxKSy7ATWeQvQh09%2F-Ma2R7ZmYF8MYWVeJmQr%2F-Ma2YDb0OUlAfjzyjKFm%2Fimage.png" width="800px" style="margin: 0 auto;" />
+<img src="https://raw.githubusercontent.com/solv-finance-dev/solv-ic-market-projects/gh-pages/images/DODO/dodo-roadmap.png" width="800px" style="margin: 0 auto;" />
 
 
 
@@ -67,7 +67,7 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 
 
-<img src="https://gblobscdn.gitbook.com/assets%2F-M_yRxKSy7ATWeQvQh09%2F-Ma2ad9fE0LB5hDqiKhY%2F-Ma2hEMegnnkDr_nzrBG%2Fimage.png" width="350px" style="margin: 0 auto;" />
+<img src="https://raw.githubusercontent.com/solv-finance-dev/solv-ic-market-projects/gh-pages/images/DODO/dodo-Mingda%20Lei.png" width="350px" style="margin: 0 auto;" />
 
 Mingda Lei has a wealth of expertise and experience in blockchain technology and DeFi. He was previously an integral member of the DDEX.io team and developed much of its smart contract infrastructure. He graduated with a bachelor’s degree from the prestigious Peking University, double majoring in space physics and economics.
 
