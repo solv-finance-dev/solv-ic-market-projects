@@ -43,7 +43,7 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 **Total:** 1,000,000,000 DODO
 
-<img src="https://raw.githubusercontent.com/solv-finance-dev/solv-ic-market-projects/gh-pages/images/DODO/dodo-total.png" width="800px" style="margin: 0 auto;" />
+<img src="http://ic-market-projects.solv.finance/images/DODO/dodo-total.png" width="800px" style="margin: 0 auto;" />
 
 
 
@@ -51,7 +51,7 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 
 
-<img src="https://raw.githubusercontent.com/solv-finance-dev/solv-ic-market-projects/gh-pages/images/DODO/dodo-unlock-schedule.png" width="800px" style="margin: 0 auto;" />
+<img src="http://ic-market-projects.solv.finance/images/DODO/dodo-unlock-schedule.png" width="800px" style="margin: 0 auto;" />
 
 
 
@@ -59,7 +59,7 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 
 
-<img src="https://raw.githubusercontent.com/solv-finance-dev/solv-ic-market-projects/gh-pages/images/DODO/dodo-roadmap.png" width="800px" style="margin: 0 auto;" />
+<img src="http://ic-market-projects.solv.finance/images/DODO/dodo-roadmap.png" width="800px" style="margin: 0 auto;" />
 
 
 
@@ -67,19 +67,19 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 
 
-<img src="https://raw.githubusercontent.com/solv-finance-dev/solv-ic-market-projects/gh-pages/images/DODO/dodo-Mingda%20Lei.png" width="350px" style="margin: 0 auto;" />
+<img src="http://ic-market-projects.solv.finance/images/DODO/dodo-Mingda%20Lei.png" width="350px" style="margin: 0 auto;" />
 
 Mingda Lei has a wealth of expertise and experience in blockchain technology and DeFi. He was previously an integral member of the DDEX.io team and developed much of its smart contract infrastructure. He graduated with a bachelor’s degree from the prestigious Peking University, double majoring in space physics and economics.
 
 
 
-<img src="https://raw.githubusercontent.com/solv-finance-dev/solv-ic-market-projects/gh-pages/images/DODO/dodo-Diane%20Dai.png" width="350px" style="margin: 0 auto;" />
+<img src="http://ic-market-projects.solv.finance/images/DODO/dodo-Diane%20Dai.png" width="350px" style="margin: 0 auto;" />
 
 Diane Dai is a well-known thought leader and pioneer in the Chinese DeFi community and has been working in the decentralized exchange space since 2017. She has extensive experience in marketing, social media, and business development, and her WeChat blog DeFi the World is considered a must-read by DeFi enthusiasts. Prior to founding DODO, she spent time at DDEX.
 
 
 
-<img src="https://raw.githubusercontent.com/solv-finance-dev/solv-ic-market-projects/gh-pages/images/DODO/dodo-Qi.png" width="350px" style="margin: 0 auto;" />
+<img src="http://ic-market-projects.solv.finance/images/DODO/dodo-Qi.png" width="350px" style="margin: 0 auto;" />
 
 Qi is an experienced blockchain entrepreneur and founded DOS Network, a layer 2 decentralized oracle service project. He previously worked for more than five years in the San Francisco Bay Area, serving as tech lead at enterprise giants Oracle and Pure Storage. Qi has a master’s degree in Computer Engineering from Carnegie Mellon University.
 
