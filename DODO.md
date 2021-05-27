@@ -73,13 +73,13 @@ Mingda Lei has a wealth of expertise and experience in blockchain technology and
 
 
 
-<img src="https://gblobscdn.gitbook.com/assets%2F-M_yRxKSy7ATWeQvQh09%2F-Ma2ad9fE0LB5hDqiKhY%2F-Ma2gkjQOf2L7alQi6Mp%2Fimage.png" width="350px" style="margin: 0 auto;" />
+<img src="https://raw.githubusercontent.com/solv-finance-dev/solv-ic-market-projects/gh-pages/images/DODO/dodo-Diane%20Dai.png" width="350px" style="margin: 0 auto;" />
 
 Diane Dai is a well-known thought leader and pioneer in the Chinese DeFi community and has been working in the decentralized exchange space since 2017. She has extensive experience in marketing, social media, and business development, and her WeChat blog DeFi the World is considered a must-read by DeFi enthusiasts. Prior to founding DODO, she spent time at DDEX.
 
 
 
-<img src="https://gblobscdn.gitbook.com/assets%2F-M_yRxKSy7ATWeQvQh09%2F-Ma2ad9fE0LB5hDqiKhY%2F-Ma2gwsWcv4zGO60DyWC%2Fimage.png" width="350px" style="margin: 0 auto;" />
+<img src="https://raw.githubusercontent.com/solv-finance-dev/solv-ic-market-projects/gh-pages/images/DODO/dodo-Qi.png" width="350px" style="margin: 0 auto;" />
 
 Qi is an experienced blockchain entrepreneur and founded DOS Network, a layer 2 decentralized oracle service project. He previously worked for more than five years in the San Francisco Bay Area, serving as tech lead at enterprise giants Oracle and Pure Storage. Qi has a master’s degree in Computer Engineering from Carnegie Mellon University.
 
