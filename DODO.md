@@ -3,13 +3,13 @@ Decentralized exchange platform powered by the Proactive Market Maker (PMM) algo
 
 
 
-## 1.About DODO
+## 1. About DODO
 
 DODO is a decentralized exchange platform powered by the Proactive Market Maker (PMM) algorithm. It features highly capital-efficient liquidity pools that support single-token provision, reduce impermanent loss, and minimize slippage for traders. The trading platform also offers SmartTrade, a decentralized liquidity aggregation service that routes to and compares various liquidity sources to quote the optimal prices between any two tokens. In addition, DODO removed all roadblocks hindering liquidity pool creation for the issuance of new assets - asset ratios, liquidity depths, fee rates, and other parameters can all be freely customized and configured in real-time. Based on this breakthrough, DODO has developed Crowdpooling, a permissionless, equal opportunity liquidity offering mechanic, as well as customizable technical solutions geared towards professional on-chain market makers.
 
 
 
-## 2.Key Highlights
+## 2. Key Highlights
 
 **SmartTrade trading and aggregation**
 
@@ -25,7 +25,7 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 
 
-## 3.DODO Investment Certificate Details
+## 3. DODO Investment Certificate Details
 
 **Total amount：**100,000 DODO
 
@@ -39,7 +39,7 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 
 
-## 4.Allocation of genesis tokens
+## 4. Allocation of genesis tokens
 
 **Total:** 1,000,000,000 DODO
 
@@ -47,7 +47,7 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 
 
-## 5.Unlock schedule
+## 5. Unlock schedule
 
 
 
@@ -55,7 +55,7 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 
 
-## 6.Roadmap
+## 6. Roadmap
 
 
 
@@ -63,7 +63,7 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 
 
-## 7.Team
+## 7. Team
 
 
 
@@ -85,6 +85,6 @@ Qi is an experienced blockchain entrepreneur and founded DOS Network, a layer 2 
 
 
 
-## 8.Supporters
+## 8. Supporters
 
 Pantera Capital、Three Arrows Capital、Binance Labs、Coinbase Ventures、Framework Ventures、DeFiance Capital、SevenX Ventures、CMS Holdings、Alameda Research、Galaxy Digital、Shata Capital、Primitive Ventures、D1 Ventures、IOSG Ventures、LongHash Ventures、The Force Partners、BTC12 Capital、 Origin Capital、Maple Leaf Capital、Puzzle Ventures、Origin Capital、Robot Ventures、Honglian Capital.
