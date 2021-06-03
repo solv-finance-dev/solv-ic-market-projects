@@ -1,42 +1,34 @@
 # PARSIQ
 
-Blockchain Monitoring and Workflow Automation Platform.
+PARSIQ is a next-generation blockchain analytics platform built to connect blockchain activity to off-chain applications and devices.
 
 
 
 ## 1.About PARSIQ
 
-PARSIQ will automate workflows that you currently handle manually and aggregate data that you look up from different sources. 
-
-It is not only capable of monitoring blockchain transactions, but also enriching them with off-chain data like fiat rate and a risk score. Users can transform and aggregate the data for it to be delivered to their off-chain application of choice. 
-
-We not only have direct integrations for most blockchains, but thanks to the wide range of supported communication channels, we can easily connect to almost any web service, allowing you to bridge automation between blockchain and off-chain. All without writing a single line of code. 
+PARSIQ is a middleware connectivity layer between on-chain and off-chain systems. We run our own nodes, embed our trackers and tracers in the source code, and enable our users to write conditional scripts to monitor transactions and events and create data streams delivered to off-chain systems. We like to call our scripts smart triggers, which effectively is IFTTT for blockchain. Our triggers also allow for data enrichment via integration with third party datasets like Chainlink, Aave, Balancer, Ocean protocol, Uppsala Security, Bitfury Crystal, and others.
 
 
 
 ## 2.Key Highlights
 
-**Real-Time Monitoring**
+PARSIQ is designed all around our Smart-Triggers. Users will receive conditioned data in Real Time allowing them to create automated workflows that responds to events. Smart Triggers are currently deployable on Ethereum, Bitcoin, Dash, Algorand, Binance Smart Chain, Huobi Eco Chain, Solana & Polkadot Chains.
 
-Monitor any events and digital asset transfers on various blockchains in real-time at scale.
+Parsiq created their own Domain-specific language, ParsiQL, which serves the main purpose of manipulating streams, Saving developers time by being able to reduce coding demands.
 
-**Workflows Made Simple**
+The upcoming launch of PARSIQs brand new Tokenomics model, paired with the IQ Protocol is a brand-new model which allows service to unlock when token criteria is met, revolutionizing Service as a Subscription (SaaS) on blockchain.
 
-Create conditional and business logic, calculate turnovers, format data and do much more. 
-
-**Maximum Automation**
-
-Deliver the results in an enriched aggregated form to any application or communication channel.
+PARSIQ has been involved in aiding projects post hack/exploit and offers Forensics and ‘snapshot’ technology of both current holders and pool positions. Examples of this are Kucoin, Coinmetro and PAID Hacks.
 
 
 
 ## 3.PRQ Investment Certificate Details
 
-**Total amount：**TBD
+**Total amount：**250,000 PRQ
 
 **Price：**TBD
 
-**Lock-up：**TBD
+**Lock-up：**Liner Release
 
 **Purchase limit：**TBD
 
@@ -44,9 +36,44 @@ Deliver the results in an enriched aggregated form to any application or communi
 
 
 
-## 4.Team
+## 4.Allocation of genesis tokens
 
-The people behind PARSIQ are experienced and highly qualified industry professionals that are passionate about blockchain technology. Our ultimate goal is to push forward the mass adoption of blockchain technology by providing the necessary solutions. We want to give everyone the ability to understand and manipulate blockchain data streams.
+<img src="https://ic-market-projects.solv.finance/images/PRQ/PRQ allocation.png" />
 
-With PARSIQ we are making it easier to integrate blockchain infrastructures into existing businesses with an additional layer of monitoring and automation for blockchain-specific asset management.
+
+
+
+
+## 5.Unlock schedule
+
+<img src="https://ic-market-projects.solv.finance/images/PRQ/PRQ schedule.png" />
+
+
+
+
+
+## 6.Team
+
+
+
+<img src="https://ic-market-projects.solv.finance/images/PRQ/prq team1.png"  />
+
+**Tom Tirman** - CEO & Co-Founder
+
+
+
+
+
+<img src="https://ic-market-projects.solv.finance/images/PRQ/prq team2.png" />
+
+**Anatoly Ressin** - Chief Blockchain Architect & Co-Founder
+
+
+
+
+
+<img src="https://ic-market-projects.solv.finance/images/PRQ/prq team3.png" />
+
+**Andre Kalinovski** - Digital Forensics Engineer & Co-Founder
+
 
