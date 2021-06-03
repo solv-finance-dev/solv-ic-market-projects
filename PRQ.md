@@ -4,13 +4,13 @@ PARSIQ is a next-generation blockchain analytics platform built to connect block
 
 
 
-## 1.About PARSIQ
+## 1. About PARSIQ
 
 PARSIQ is a middleware connectivity layer between on-chain and off-chain systems. We run our own nodes, embed our trackers and tracers in the source code, and enable our users to write conditional scripts to monitor transactions and events and create data streams delivered to off-chain systems. We like to call our scripts smart triggers, which effectively is IFTTT for blockchain. Our triggers also allow for data enrichment via integration with third party datasets like Chainlink, Aave, Balancer, Ocean protocol, Uppsala Security, Bitfury Crystal, and others.
 
 
 
-## 2.Key Highlights
+## 2. Key Highlights
 
 PARSIQ is designed all around our Smart-Triggers. Users will receive conditioned data in Real Time allowing them to create automated workflows that responds to events. Smart Triggers are currently deployable on Ethereum, Bitcoin, Dash, Algorand, Binance Smart Chain, Huobi Eco Chain, Solana & Polkadot Chains.
 
@@ -22,7 +22,7 @@ PARSIQ has been involved in aiding projects post hack/exploit and offers Forensi
 
 
 
-## 3.PRQ Investment Certificate Details
+## 3. PRQ Investment Certificate Details
 
 **Total amount：**250,000 PRQ
 
@@ -36,7 +36,7 @@ PARSIQ has been involved in aiding projects post hack/exploit and offers Forensi
 
 
 
-## 4.Allocation of genesis tokens
+## 4. Allocation of genesis tokens
 
 <img src="https://ic-market-projects.solv.finance/images/PRQ/PRQ allocation.png" />
 
@@ -44,7 +44,7 @@ PARSIQ has been involved in aiding projects post hack/exploit and offers Forensi
 
 
 
-## 5.Unlock schedule
+## 5. Unlock schedule
 
 <img src="https://ic-market-projects.solv.finance/images/PRQ/PRQ schedule.png" />
 
@@ -52,7 +52,7 @@ PARSIQ has been involved in aiding projects post hack/exploit and offers Forensi
 
 
 
-## 6.Team
+## 6. Team
 
 
 
