@@ -22,7 +22,7 @@ PARSIQ has been involved in aiding projects post hack/exploit and offers Forensi
 
 
 
-## 3. PRQ Investment Certificate Details
+## 3. PRQ Allocation Voucher Details
 
 **Total amount：**250,000 PRQ
 
