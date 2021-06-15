@@ -25,7 +25,7 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 
 
-## 3. DODO Investment Certificate Details
+## 3. DODO Allocation Voucher Details
 
 **Total amount：**100,000 DODO
 
