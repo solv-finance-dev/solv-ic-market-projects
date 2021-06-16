@@ -33,7 +33,7 @@ A decentralized multi-chain infrastructure that supports NFT auctions, NFT store
 
 
 
-## 5. Roadmap
+## 4. Roadmap
 
 **Q2.2021**
 Launch fangible, a Blockchain-based Shopify for Digital Arts, Music, and Comics.
@@ -50,6 +50,6 @@ Introduce the fan token issuance and community governance functionalities to fan
 
 
 
-## 6. Supporters
+## 5. Supporters
 
 <img src="https://ic-market-projects.solv.finance/images/Auction/Auction supporter.png" />
