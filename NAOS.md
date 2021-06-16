@@ -20,15 +20,15 @@ NAOS facilitates the borrowing of crypto native assets by using real world asset
 
 ## 3. NAOS Allocation Voucher Details
 
-**Total amount：**TBD
+**Total amount：**20,000 - 30,000 NAOS
 
-**Price：**TBD
+**Price：**$0.55
 
-**Lock-up：**TBD
+**Lock-up：**Staged release
 
-**Purchase limit：**TBD
+**Purchase limit：**100 - 2000 NAOS
 
-**Whitelist：**TBD
+**Whitelist：**No limit
 
 
 
