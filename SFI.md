@@ -28,15 +28,15 @@ Existing decentralized earning platforms expose liquidity providers to complex c
 
 ## 3. SAFFRON Allocation Voucher Details
 
-**Total amount：**150 SFI
+**Total amount：** 150 SFI
 
-**Price：**1 SFI / 350 USDT
+**Price：** 1 SFI / 350 USDT
 
-**Lock-up：**Linear release
+**Lock-up：** Linear release
 
-**Purchase limit：**1 - 50 SFI
+**Purchase limit：** 1 - 50 SFI
 
-**Whitelist：**TBD
+**Whitelist：** TBD
 
 
 
