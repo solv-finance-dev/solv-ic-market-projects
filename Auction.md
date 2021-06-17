@@ -24,15 +24,15 @@ A decentralized multi-chain infrastructure that supports NFT auctions, NFT store
 
 ## 3. BOUNCE Allocation Voucher Details
 
-**Total amount：**TBD
+**Total amount：** TBD
 
-**Price：**TBD
+**Price：** TBD
 
-**Lock-up：**TBD
+**Lock-up：** TBD
 
-**Purchase limit：**TBD
+**Purchase limit：** TBD
 
-**Whitelist：**TBD
+**Whitelist：** TBD
 
 
 
