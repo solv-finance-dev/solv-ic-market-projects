@@ -58,7 +58,7 @@ Existing decentralized earning platforms expose liquidity providers to complex c
 
 <img src="https://ic-market-projects.solv.finance/images/SFI/SFI Schedule.png" style="margin: 0 auto;" />
 
-***** ¼ of 15,000 SFI treasury minted each year for four years by community governance
+ ¼ of 15,000 SFI treasury minted each year for four years by community governance
 
 
 
