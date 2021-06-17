@@ -50,6 +50,6 @@ Introduce the fan token issuance and community governance functionalities to fan
 
 
 
-## 5. Supporters
+## 5. Investors
 
 <img src="https://ic-market-projects.solv.finance/images/Auction/Auction supporter.png" />
