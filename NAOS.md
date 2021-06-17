@@ -32,6 +32,6 @@ NAOS facilitates the borrowing of crypto native assets by using real world asset
 
 
 
-## 4. Supporters
+## 4. Investors
 
 <img src="https://ic-market-projects.solv.finance/images/NAOS/NAOS Supporter.png" />
