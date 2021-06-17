@@ -66,17 +66,21 @@ Existing decentralized earning platforms expose liquidity providers to complex c
 
 ## 6. Roadmap
 
-1. 4 new pool types
+**1.** 4 new pool types
 
-2. New capabilities for Binance Smart Chain as well as Ethereum (The V2 beta includes earning BUSD yield on Venus and ETH yield on Alpha Homora)
+**2.** New capabilities for Binance Smart Chain as well as Ethereum (The V2 beta includes earning BUSD yield on Venus and ETH yield on Alpha Homora)
 
-3. Upgrades the original V1 pool types
+**3.** Upgrades the original V1 pool types
 
-4. New key features:
-    \- Perpetual staking
-    \- Unlocked pools
-    \- Liquidity targeting
-    \- Tranched exchange rates
+**4.** New key features:
+
+ \-Perpetual staking
+
+ \- Unlocked pools
+
+ \- Liquidity targeting
+
+ \- Tranched exchange rates
 
 
 
