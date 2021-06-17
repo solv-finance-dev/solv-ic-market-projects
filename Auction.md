@@ -14,11 +14,11 @@ Bounce is a decentralized auction platform, incorporating liquidity mining, dece
 
 A decentralized multi-chain infrastructure that supports NFT auctions, NFT stores creation & operations, and social token issuance and token sales.
 
-- Bounce Decentralized: A decentralized open platform where anyone can create and participate in various types of auctions.
+\-Bounce Decentralized: A decentralized open platform where anyone can create and participate in various types of auctions.
 
-- Bounce Certified: Community curated token issuance & sales for selected high-quality projects offering options for KYC, whitelisting, lotteries, and more.
+\-Bounce Certified: Community curated token issuance & sales for selected high-quality projects offering options for KYC, whitelisting, lotteries, and more.
 
-- Bounce fangible: A blockchain-based Shopify for digital art, music, and more. 
+\-Bounce fangible: A blockchain-based Shopify for digital art, music, and more. 
 
 
 
