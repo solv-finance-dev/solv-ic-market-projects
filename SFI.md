@@ -74,7 +74,7 @@ Existing decentralized earning platforms expose liquidity providers to complex c
 
 4. New key features:
 
-    \-Perpetual staking
+    \- Perpetual staking
 
     \- Unlocked pools
 
