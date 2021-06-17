@@ -19,7 +19,7 @@ A decentralized multi-chain infrastructure that supports NFT auctions, NFT store
 
 
 
-## 3. Auction Allocation Voucher Details
+## 3. BOUNCE Allocation Voucher Details
 
 **Total amount：**TBD
 
