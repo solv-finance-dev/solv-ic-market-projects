@@ -27,15 +27,15 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 ## 3. DODO Allocation Voucher Details
 
-**Total amount：**100,000 DODO
+**Total amount：** 100,000 DODO
 
-**Price：**50% discount from the average price of 30 days
+**Price：** 50% discount from the average price of 30 days
 
-**Lock-up：**Linear release since 2021.9.24 ，Locked for 24 months 
+**Lock-up：** Linear release since 2021.9.24 ，Locked for 24 months 
 
-**Purchase limit：**No limit
+**Purchase limit：** No limit
 
-**Whitelist：**No limit
+**Whitelist：** No limit
 
 
 
