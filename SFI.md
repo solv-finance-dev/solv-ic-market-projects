@@ -58,13 +58,11 @@ Existing decentralized earning platforms expose liquidity providers to complex c
 
 <img src="https://ic-market-projects.solv.finance/images/SFI/SFI Schedule.png" style="margin: 0 auto;" />
 
- ¼ of 15,000 SFI treasury minted each year for four years by community governance
+¼ of 15,000 SFI treasury minted each year for four years by community governance
 
 
 
 
-
-## 6. Roadmap
 
 ## 6. Roadmap
 
@@ -72,17 +70,17 @@ Existing decentralized earning platforms expose liquidity providers to complex c
 
 2. New capabilities for Binance Smart Chain as well as Ethereum (The V2 beta includes earning BUSD yield on Venus and ETH yield on Alpha Homora)
 
-**3.** Upgrades the original V1 pool types
+3. Upgrades the original V1 pool types
 
-**4.** New key features:
+4. New key features:
 
- \-Perpetual staking
+    \-Perpetual staking
 
- \- Unlocked pools
+    \- Unlocked pools
 
- \- Liquidity targeting
+    \- Liquidity targeting
 
- \- Tranched exchange rates
+    \- Tranched exchange rates
 
 
 
