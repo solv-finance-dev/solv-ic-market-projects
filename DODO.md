@@ -85,6 +85,6 @@ Qi is an experienced blockchain entrepreneur and founded DOS Network, a layer 2 
 
 
 
-## 8. Supporters
+## 8. Investors
 
 Pantera Capital、Three Arrows Capital、Binance Labs、Coinbase Ventures、Framework Ventures、DeFiance Capital、SevenX Ventures、CMS Holdings、Alameda Research、Galaxy Digital、Shata Capital、Primitive Ventures、D1 Ventures、IOSG Ventures、LongHash Ventures、The Force Partners、BTC12 Capital、 Origin Capital、Maple Leaf Capital、Puzzle Ventures、Origin Capital、Robot Ventures、Honglian Capital.
