@@ -46,7 +46,7 @@ Existing decentralized earning platforms expose liquidity providers to complex c
 
 
 
-<img src="https://ic-market-projects.solv.finance/images/SFI/SFI allocation.png" />
+<img src="https://ic-market-projects.solv.finance/images/SFI/SFI allocation.png" style="margin: 0 auto;" />
 
 
 
@@ -56,7 +56,7 @@ Existing decentralized earning platforms expose liquidity providers to complex c
 
 
 
-<img src="https://ic-market-projects.solv.finance/images/SFI/SFI Schedule.png" />
+<img src="https://ic-market-projects.solv.finance/images/SFI/SFI Schedule.png" style="margin: 0 auto;" />
 
 ***** ¼ of 15,000 SFI treasury minted each year for four years by community governance
 
@@ -86,4 +86,4 @@ Existing decentralized earning platforms expose liquidity providers to complex c
 
 Saffron’s partners include Dragonfly Capital, Multicoin Capital, Coinbase Ventures, CMS Holdings, DeFi Technologies, Focus Investments, Tally Capital, Meltem Demirors, Tegan Kline, Brandon Chez, Marc Weinstein, DeFi God, Leo Cheng, Benjamin Simon, Maple Leaf Cap, Shiliang Tang, Feng Liu, MrBlock.
 
-<img src="https://ic-market-projects.solv.finance/images/SFI/SFI investor.png" />
+<img src="https://ic-market-projects.solv.finance/images/SFI/SFI investor.png" style="margin: 0 auto;" />
