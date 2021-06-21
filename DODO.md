@@ -65,4 +65,4 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 ## 7. Investors
 
-Pantera Capital、Three Arrows Capital、Binance Labs、Coinbase Ventures、Framework Ventures、DeFiance Capital、SevenX Ventures、CMS Holdings、Alameda Research、Galaxy Digital、Shata Capital、Primitive Ventures、D1 Ventures、IOSG Ventures、LongHash Ventures、The Force Partners、BTC12 Capital、 Origin Capital、Maple Leaf Capital、Puzzle Ventures、Origin Capital、Robot Ventures、Honglian Capital.
+<img src="https://ic-market-projects.solv.finance/images/DODO/DODO Investors.jpg" width="800px" style="margin: 0 auto;" />
