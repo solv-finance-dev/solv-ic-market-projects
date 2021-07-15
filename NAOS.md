@@ -18,20 +18,6 @@ NAOS facilitates the borrowing of crypto native assets by using real world asset
 
 
 
-## 3. NAOS Allocation Voucher Details
-
-**Total amount：** 20,000 - 30,000 NAOS
-
-**Price：** $0.55
-
-**Lock-up：** Staged release
-
-**Purchase limit：** 100 - 2000 NAOS
-
-**Whitelist：** No limit
-
-
-
-## 4. Investors
+## 3. Investors
 
 <img src="https://ic-market-projects.solv.finance/images/NAOS/NAOS Supporter.png" />
