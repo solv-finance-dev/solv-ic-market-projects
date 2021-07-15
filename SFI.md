@@ -26,23 +26,8 @@ Existing decentralized earning platforms expose liquidity providers to complex c
 
 
 
-## 3. SAFFRON Allocation Voucher Details
 
-**Total amount：** 150 SFI
-
-**Price：** 1 SFI / 350 USDT
-
-**Lock-up：** Linear release
-
-**Purchase limit：** 1 - 50 SFI
-
-**Whitelist：** TBD
-
-
-
-
-
-## 4. Allocation of genesis tokens
+## 3. Allocation of genesis tokens
 
 
 
@@ -52,7 +37,7 @@ Existing decentralized earning platforms expose liquidity providers to complex c
 
 
 
-## 5. Unlock schedule
+## 4. Unlock schedule
 
 
 
@@ -64,7 +49,7 @@ Existing decentralized earning platforms expose liquidity providers to complex c
 
 
 
-## 6. Roadmap
+## 5. Roadmap
 
 1. 4 new pool types
 
@@ -86,7 +71,7 @@ Existing decentralized earning platforms expose liquidity providers to complex c
 
 
 
-## 7. Investors
+## 6. Investors
 
 Saffron’s partners include Dragonfly Capital, Multicoin Capital, Coinbase Ventures, CMS Holdings, DeFi Technologies, Focus Investments, Tally Capital, Meltem Demirors, Tegan Kline, Brandon Chez, Marc Weinstein, DeFi God, Leo Cheng, Benjamin Simon, Maple Leaf Cap, Shiliang Tang, Feng Liu, MrBlock.
 
