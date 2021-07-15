@@ -22,21 +22,8 @@ PARSIQ has been involved in aiding projects post hack/exploit and offers Forensi
 
 
 
-## 3. PARSIQ Allocation Voucher Details
 
-**Total amount：**250,000 PRQ
-
-**Price：**TBD
-
-**Lock-up：**Liner Release
-
-**Purchase limit：**TBD
-
-**Whitelist：**TBD
-
-
-
-## 4. Allocation of genesis tokens
+## 3. Allocation of genesis tokens
 
 <img src="https://ic-market-projects.solv.finance/images/PRQ/PRQ allocation.png" />
 
@@ -44,7 +31,7 @@ PARSIQ has been involved in aiding projects post hack/exploit and offers Forensi
 
 
 
-## 5. Unlock schedule
+## 4. Unlock schedule
 
 <img src="https://ic-market-projects.solv.finance/images/PRQ/PRQ schedule.png" />
 
@@ -52,7 +39,7 @@ PARSIQ has been involved in aiding projects post hack/exploit and offers Forensi
 
 
 
-## 6. Team
+## 5. Team
 
 
 
