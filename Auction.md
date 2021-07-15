@@ -22,21 +22,7 @@ A decentralized multi-chain infrastructure that supports NFT auctions, NFT store
 
 
 
-## 3. BOUNCE Allocation Voucher Details
-
-**Total amount：** TBD
-
-**Price：** TBD
-
-**Lock-up：** TBD
-
-**Purchase limit：** TBD
-
-**Whitelist：** TBD
-
-
-
-## 4. Roadmap
+## 3. Roadmap
 
 **Q2.2021**
 
@@ -56,6 +42,6 @@ Introduce the fan token issuance and community governance functionalities to fan
 
 
 
-## 5. Investors
+## 4. Investors
 
 <img src="https://ic-market-projects.solv.finance/images/Auction/Auction supporter.png" />
