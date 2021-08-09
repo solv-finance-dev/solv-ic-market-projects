@@ -31,7 +31,7 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 **Price：** 50% discount from the average price of 30 days
 
-**Lock-up：** Linear release since 2021.9.24 ，Locked for 24 months 
+**Lock-up：** Linear release since 2021.9.29 ，Locked for 24 months 
 
 **Purchase limit：** No limit
 
