@@ -13,16 +13,17 @@ Prometeus is a secure and decentralized protocol that allows fully trustless and
 
 ## 2. Key Highlights
 
-1. Starting Prometeus project: summer 2019 
+- Starting Prometeus project: summer 2019 
 
-2. Our first project, Stoa, is announced: autumn 2019 
+- Our first project, Stoa, is announced: autumn 2019 
 
-3. Started development of Ignite: spring 2020 
-4. Stepping into the segment of prediction markets with Prosper: winter 2020
+- Started development of Ignite: spring 2020 
 
-5. Prometeus Labs organizing its own ecosystem
+- Stepping into the segment of prediction markets with Prosper: winter 2020
 
-6. Revolutionizing the data exchange: launching Coldstack in spring 2021
+- Prometeus Labs organizing its own ecosystem
 
-7. Adding Realis (blockchain gaming developers) to our ecosystem: summer 2021 
+- Revolutionizing the data exchange: launching Coldstack in spring 2021
+
+- Adding Realis (blockchain gaming developers) to our ecosystem: summer 2021 
 
