@@ -1,6 +1,5 @@
 # **Prometeus Labs**
 
-Brief introduction of your project, under the project logo of the first page
 Prometeus Network fuels people-owned data markets, introducing new ways to interact with data and profit from it.
 
 
