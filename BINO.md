@@ -26,7 +26,7 @@ Binopoly is a play-to-earn capital operation game powered by blockchain technolo
 
 ## 3. Allocation of genesis tokens
 
-<img src="https://ic-market-projects.solv.finance/images/BINO/Bino allocation.jpeg " width="800px" style="margin: 0 auto;" />
+<img src="https://ic-market-projects.solv.finance/images/BINO/Bino allocation.jpeg >
 
 
 
