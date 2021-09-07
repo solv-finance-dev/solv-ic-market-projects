@@ -13,10 +13,15 @@ ColdStack is a unified protocol which allows for the aggregation of Decentralize
 ## 2. Key Highlights
 
 1, Decentralized storage aggregation – finds the best prices for services like Filecoin and Sia.
+
 2, First to market decentralized storage aggregator – there is nothing else on the market like ColdStack currently!
+
 3, $CLS tokens are needed to pay for storage on the platform.
+
 4, Our ease-of-use features such as S3 SDK compatibility make ColdStack usable for businesses and organizations outside of cryptocurrency, and encourages DSN adoption.
+
 5, ColdStack can offer lower costs for almost any blockchain project – centralized and decentralized exchanges, NFT marketplaces, DeFi Games. All these projects have tons of data to store.
+
 6, We do not compete with other decentralized storages - we aggregate them.
 
 
