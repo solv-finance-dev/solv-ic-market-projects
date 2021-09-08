@@ -52,16 +52,18 @@ ColdStack is a unified protocol which allows for the aggregation of Decentralize
 
 
 
-## 6. Investors
+## 6. Team
+
+<img src="https://ic-market-projects.solv.finance/images/CLS/CLS-team.jpg" width="800px" style="margin: 0 auto;" />
+
+
+
+
+
+## 7. Investors
 
 <img src="https://ic-market-projects.solv.finance/images/CLS/CLS-investors.jpg" width="800px" style="margin: 0 auto;" />
 
 
-
-
-
-## 7. Team
-
-<img src="https://ic-market-projects.solv.finance/images/CLS/CLS-team.jpg" width="800px" style="margin: 0 auto;" />
 
 
