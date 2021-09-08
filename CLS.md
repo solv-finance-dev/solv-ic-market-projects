@@ -12,31 +12,56 @@ ColdStack is a unified protocol which allows for the aggregation of Decentralize
 
 ## 2. Key Highlights
 
-1, Decentralized storage aggregation – finds the best prices for services like Filecoin and Sia.
+1. Decentralized storage aggregation – finds the best prices for services like Filecoin and Sia.
 
-2, First to market decentralized storage aggregator – there is nothing else on the market like ColdStack currently!
+2. First to market decentralized storage aggregator – there is nothing else on the market like ColdStack currently!
 
-3, $CLS tokens are needed to pay for storage on the platform.
+3. $CLS tokens are needed to pay for storage on the platform.
 
-4, Our ease-of-use features such as S3 SDK compatibility make ColdStack usable for businesses and organizations outside of cryptocurrency, and encourages DSN adoption.
+4. Our ease-of-use features such as S3 SDK compatibility make ColdStack usable for businesses and organizations outside of cryptocurrency, and encourages DSN adoption.
 
-5, ColdStack can offer lower costs for almost any blockchain project – centralized and decentralized exchanges, NFT marketplaces, DeFi Games. All these projects have tons of data to store.
+5. ColdStack can offer lower costs for almost any blockchain project – centralized and decentralized exchanges, NFT marketplaces, DeFi Games. All these projects have tons of data to store.
 
-6, We do not compete with other decentralized storages - we aggregate them.
+6. We do not compete with other decentralized storages - we aggregate them.
 
 
 
-## 3. Roadmap
+
+
+## 3. Allocation of genesis tokens
+
+<img src="https://ic-market-projects.solv.finance/images/CLS/CLS-allocation.jpg" width="800px" style="margin: 0 auto;" />
+
+
+
+
+
+## 4. Unlock schedule
+
+<img src="https://ic-market-projects.solv.finance/images/CLS/CLS-schedule.jpg" width="800px" style="margin: 0 auto;" />
+
+
+
+
+
+## 5. Roadmap
 
 <img src="https://ic-market-projects.solv.finance/images/CLS/CLS-roadmap.jpg" width="800px" style="margin: 0 auto;" />
 
 
 
-## 4. Investors
+
+
+## 6. Investors
 
 <img src="https://ic-market-projects.solv.finance/images/CLS/CLS-investors.jpg" width="800px" style="margin: 0 auto;" />
 
 
-## 5. Team
+
+
+
+## 7. Team
 
 <img src="https://ic-market-projects.solv.finance/images/CLS/CLS-team.jpg" width="800px" style="margin: 0 auto;" />
+
+
