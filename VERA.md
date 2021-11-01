@@ -62,7 +62,7 @@ All NFT Vouchers: 365 Day Linear Release at 15% APY.
 
 ## 6. Investors
 
-Founded in 2021 by Vera Labs and backed by notable investors in the decentralized fintech space. For a full list of our partners and backers please visit: https://docs.vera.financial/ecosystem
+Founded in 2021 by Vera Labs and backed by notable investors in the decentralized fintech space. For a full list of our partners and backers please visit: docs.vera.financial/ecosystem
 
 <img src="https://ic-market-projects.solv.finance/images/VERA/Investors.jpg" width="800px" style="margin: 0 auto;" />
 
@@ -70,8 +70,7 @@ Founded in 2021 by Vera Labs and backed by notable investors in the decentralize
 
 ## 7. Team
 
-**Denis Lam - CEO**
-  [linkedin.com/in/denislam](http://linkedin.com/in/denislam) 
+**Denis Lam - CEO**-linkedin.com/in/denislam 
 
 
 
@@ -88,10 +87,7 @@ Denis is passionate about working with firestarters to democratize access to pro
 
 
 
-**Michael Arbach - CTO**
- [linkedin.com/in/arbach](https://linkedin.com/in/arbach)
-
-
+**Michael Arbach - CTO**-linkedin.com/in/arbach
 
 Michael has a background in Mathematics and Computer Science and has been a software developer for 17 years building software for cross industries from fintech, healthtech, to supply chain and IOT. 
 
