@@ -71,6 +71,7 @@ Founded in 2021 by Vera Labs and backed by notable investors in the decentralize
 ## 7. Team
 
 **Denis Lam - CEO**
+
 linkedin.com/in/denislam 
 
 
@@ -89,6 +90,7 @@ Denis is passionate about working with firestarters to democratize access to pro
 
 
 **Michael Arbach - CTO**
+
 linkedin.com/in/arbach
 
 Michael has a background in Mathematics and Computer Science and has been a software developer for 17 years building software for cross industries from fintech, healthtech, to supply chain and IOT. 
