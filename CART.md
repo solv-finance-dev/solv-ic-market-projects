@@ -17,8 +17,8 @@ CryptoArt.Ai relies on global artists and collectors to accelerate the growth of
 ## 2. Key Highlights
 
 - Largest decentralized NFT marketplace in Asia, based on current artists' count, auction closing rate, and total sales.
-2. Share to earn：If NFT is sold by a link share, the person who creates that link will get 1% of the sold price.
-3. Bid to earn：In the 24H auction, all bidders will receive 5% of bidding difference from their prior's
+- Share to earn：If NFT is sold by a link share, the person who creates that link will get 1% of the sold price.
+- Bid to earn：In the 24H auction, all bidders will receive 5% of bidding difference from their prior's
 
 
 
