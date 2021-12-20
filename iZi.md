@@ -27,7 +27,7 @@ Fast, decentralized, auto-rebalance cross-chain bridges are needed in the multi-
 
 ## 3. Allocation of genesis tokens
 
-<img src="https://ic-market-projects.solv.finance/images/IZI/izi- allocation.png " width="800px" style="margin: 0 auto;" />
+<img src="https://ic-market-projects.solv.finance/images/IZI/izi-allocation.png " width="800px" style="margin: 0 auto;" />
 
 
 
