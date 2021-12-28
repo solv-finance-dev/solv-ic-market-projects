@@ -8,5 +8,5 @@
 
 
 
-**TIDAL Vesting Voucher**: [0xaAFddD9a468D61BdE503a9f96A10F50b2Bdf3C56](https://polygonscan.com/address/0xaAFddD9a468D61BdE503a9f96A10F50b2Bdf3C56)
+**TIDAL Vesting Voucher**: 0xaAFddD9a468D61BdE503a9f96A10F50b2Bdf3C56
 
