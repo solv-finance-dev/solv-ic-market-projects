@@ -16,16 +16,15 @@ Its artificial intelligence is in the process of indexing every NFT in existence
 
 ## 2. Key Highlights
 
-All Chain NFT Oracle
+* All Chain NFT Oracle
 
-Google-like semantic Search
+* Google-like semantic Search
 
-Indexing every NFT in existence
+* ndexing every NFT in existence
 
-All platforms will be able to plug into our API or SDK
+* All platforms will be able to plug into our API or SDK
 
-Red Kite/Oxbull IDO launch partners 
-
+* Red Kite/Oxbull IDO launch partners 
 
 
 
