@@ -15,7 +15,7 @@ Solv’s current financial NFT products are Vesting Voucher, an NFT that represe
 
 **Financial NFTs**
 
-Financial NFTs are NFTs that represent financial ownerships.As containers for digital assets, Vouchers are Financial NFTs that are minted on Solv Protocol.
+Financial NFTs are NFTs that represent financial ownerships. As containers for digital assets, Vouchers are Financial NFTs that are minted on Solv Protocol.
 
 
 
