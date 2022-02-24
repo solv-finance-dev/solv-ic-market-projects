@@ -1,43 +1,51 @@
-# Contract address
+# SOLV
+
+Solv Protocol is the decentralized platform for creating, managing, and trading Financial NFTs.
 
 
 
-## **Ethereum**
+## 1. About SOLV
 
-**TOKEN**
-
-Contract: 0x256F2d67e52fE834726D2DDCD8413654F5Eb8b53
-
-
-
-**SOLV Vesting Voucher**
-
-Contract: 0xfdcdE28359Db316957534e825327d99D9f4a5d17
+Solv Protocol is a decentralized marketplace for minting, trading and managing NFTs that represent financial rights in DeFi. The protocol aims to utilize the power of financial NFTs to resolve one of the most pressing problems in the emerging DeFi: the absence of an efficient and flexible tool to express complicated financial contracts. 
+Solv’s current financial NFT products are Vesting Voucher, an NFT that represents ownership of allocation, customizable in a number of specifications including flexible vesting schedules and release modes, and Convertible Voucher, a bond-like NFT featuring a redemption method which hinges on a price range and the future price of the underlying.
 
 
 
-**SOLV Flexible Voucher**
+## 2. Key Highlights
 
-Contract: 0xbbD4625Dd720f573f1162321147068a88A6DF3A2
+### Financial NFTs
 
-
-
-
-
-## BSC
-
-**TOKEN**
-
-Contract: 0xc073c4ed65622a9423b5e5bde2bfc8b81ebc471c
+Financial NFTs are NFTs that represent financial ownerships.
+VouchersAs containers for digital assets, Vouchers are Financial NFTs that are minted on Solv Protocol.
 
 
 
-**SOLV Vesting Voucher**
+**Vesting Voucher**
 
-Contract: 0x6Ce48759B6bEB972a13A7c1F7255E4c7477eAa5D
+Vesting Voucher is the first Financial NFT product of Solv Protocol. To simplify the concept, A Vesting Voucher could be understood as an automatically executed safe box that is programmed in the form of an NFT. Any ERC-20 token could be locked into this safe box as a Vesting Voucher, with flexible ways to release the lock-up token, which will significantly improve the efficiency of tokens in financial scenarios like allocation management, fundraising, and community building, etc.
 
 
 
-**SOLV Vesting Voucher**
+**Convertible Voucher**
 
-Contract: 0xfEd93e410a6A45BC045bc91DEAaE1fD642e4aF7A
+Convertible Voucher is Solv’s second Financial NFT product, which allows new, promising teams or DAOs to raise funds without exposing their tokens to the inevitable market volatility. Inspired by the convertible bond from the world of traditional finance, the Convertible Voucher converts the payment into either token or stablecoin based on a creative payout model that hinges on the future price of its underlying asset.
+
+
+
+### ERC-3525
+
+
+
+ERC-3525 is the token standard for Semi-fungible Tokens - NFTs with quantitative operations. As an ERC-721 extension, ERC-3525 extends the data structure of ERC-721 token, from tokenID to a "tokenID-slot-units" mechanism, along with several innovations in metadata, thus enabling quantitative operations for the token.
+
+As a result, this token standard will forge a new category of digital assets with the tokenization for real-world or financial ownership that couldn’t be tokenized by ERC-20 or ERC 721 in an efficient or elegant way.
+
+
+
+
+
+## 4. Roadmap
+
+<img src="https://ic-market-projects.solv.finance/images/SOLV/SOLV-Roadmap.jpg" width="800px" style="margin: 0 auto;" />
+
+
