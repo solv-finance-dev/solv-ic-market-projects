@@ -44,7 +44,7 @@ As a result, this token standard will forge a new category of digital assets wit
 
 
 
-## 4. Roadmap
+## 3. Roadmap
 
 <img src="https://ic-market-projects.solv.finance/images/SOLV/SOLV-Roadmap.jpg" width="800px" style="margin: 0 auto;" />
 
