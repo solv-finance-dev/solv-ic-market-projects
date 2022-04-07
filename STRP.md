@@ -32,7 +32,9 @@ The fund will be managed by A multi-signature wallet controlled by Solv Protocol
 
  
 
-Multi-signature wallet address: arb1:0x0A5624cf7AFb304Dc7B273f168097eA3DaeB232a
+Multi-signature wallet address: 
+
+arb1:[0x0A5624cf7AFb304Dc7B273f168097eA3DaeB232a](https://arbiscan.io/address/0x0A5624cf7AFb304Dc7B273f168097eA3DaeB232a)
 
  
 
@@ -43,5 +45,6 @@ Strips’s smart contract has been audited by Peckshield, Trail of Bits and Cert
 Currently, Strips Treasury has $9.4million USDC cash reserve, which indicates a healthy repayment ability.
 
 Strips Treasury Address:  0x5aA4e90DC2452195a5E5654F549DF0f2bC5d9996
+
 
  
